@@ -15,3 +15,5 @@ Zerto for Kubernetes can be deployed on multiple Kubernetes platforms.
 |   | VMware 7.0u2 |vsphere-csi-node |Full native support. <br> Kubernetes 1.19.9\1.20.5 or higher (CSI Block device support) on top of Tanzu Kubernetes Grid (TKG) is supported.  ||
 
 <span class="Note">Note: Z4K does not support XFS. </span>
+
+Test
